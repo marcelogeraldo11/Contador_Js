@@ -1,0 +1,18 @@
+/* dark-mode.css */
+body {
+    background-color: black;
+    color: white;
+}
+
+#btnContainer {
+    background-color: black;
+}
+
+.buttons {
+    color: azure;
+    background-color: hsl(214, 100%, 20%);
+}
+
+.buttons:hover {
+    background-color: hsl(214, 100%, 40%);
+}
